@@ -1,0 +1,7 @@
+organization=jeanpaulmc
+projectKey=jeanpaulmc_testing
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29411
+dashboardUrl=https://sonarcloud.io/dashboard?id=jeanpaulmc_testing
+ceTaskId=AYEipQC5711j4jm06Akg
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYEipQC5711j4jm06Akg
